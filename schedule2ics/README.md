@@ -9,7 +9,7 @@
 
 ## 用法
 
-1. 复制 courses.example.py 为 my_courses.py，按注释填写自己的课表
+1. 修改 schedule2ics.py中的时间表，每节课的上下课时间，按注释填写自己的课表
 2. 修改 schedule2ics.py 顶部的 FIRST_MONDAY（开学第一周的周一）
 3. python3 schedule2ics.py
 4. 打开生成的 .ics 文件，或发到手机导入
